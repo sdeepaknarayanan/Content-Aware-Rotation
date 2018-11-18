@@ -1,0 +1,7 @@
+These plots show the rotation angle of the individual bins.
+1. Important things to note are:
+	1. The "canonical" bins have their thetas preserved for rotation.
+		a. These bins are the ones that are responsible for creating the visual perception of rotation. These almost always are close to the actual rotation angle to ultimately create the effect of rotation.
+	
+	3. The continuity in the angles. 
+		a. We can see a smooth transition happening across the rotation angles across the bins. This is actually because of the second term in the rotation energy function that minimizes the separation angle between consecutive bins.
