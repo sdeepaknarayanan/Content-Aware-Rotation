@@ -4,16 +4,14 @@ Dependencies
 2. Python 3.6.6
 3. MATLAB R2017a
 
--------------------------------------------------------------------------
 For running the program, go to terminal, then do the following:
 	1. python main.py
 	2. The terminal will prompt for Image Number from Dataset. 
 	3. Choose a number from 1 to 9. 
 	4. Choose the rotation angle, corresponding to that image
-		fro
-m the file called RotationAngles.txt from the Dataset Directory.
+		from the file called RotationAngles.txt from the Dataset Directory.
 	5. The program runs for 10 iterations. Kindly wait till this procedure is over.
-----------------------------------------------------------------------------
+
 After the python program exits,
 	1. Open the main.m program in MATLAB.
 		a. Rename the filepath accordingly as the image number that you
@@ -26,7 +24,6 @@ After the python program exits,
 		directory; Otherwise, there might be an error.
 	3. One can always use absolute path.
 	4. Output will be the rotated image.
------------------------------------------------------------------------------
-The Output CSV Files are stored as theta.csv and vertex.csv in this directory.
+
 The output image is stored in the same directory as image.png in this directory.
------------------------------------------------------------------------------
+
