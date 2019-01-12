@@ -1,3 +1,6 @@
+# Content Aware Rotation - A work by Kaiming He and others at ICCV 2013 
+This is an independent implementation of thier work, done as a part of a course project at the Indian Institute of Technology Gandhinagar. The implementation has been, in part, inspired by the iRotate repository in GitHub. 
+
 Dependencies
 
 1. OpenCV 3.4.2
